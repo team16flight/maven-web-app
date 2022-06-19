@@ -13,7 +13,8 @@
 <h2 align="center"> Welcome to ACADA Learning. 
 	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance,
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord</h2>
+	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord.
+	I am ading this new after our first Jenkins class via git. I would run a build in Jenkins then check to see if its implemented in the Tomcat URL.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
