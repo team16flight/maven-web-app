@@ -18,7 +18,7 @@
 	I am now using this line to test the poll SCM feature. Its been set to check every minute for new commits. If no new commits then it does nothing. If there is a new commit (What i am trying to do here) then it will do a build. 
 	This worked. Now I want to try out the Webhook function. Rather than having jenkins come at specified times to check for new commits to build, Github would be the one to push new commits to Jenkins to build. This is the difference between Poll SCM and Webhook function.</h2>
 <hr>
-<div style="text-align: center;">
+<div style="text-align: left;">
 	<span>
 		<img src="images/DP black.png" alt="" width="100">
 	</span>
