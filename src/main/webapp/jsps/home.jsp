@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">ACADA Learning</h1>
-<h2 align="center"> Welcome to ACADA Learning. 
+<h2 align="left"> Welcome to ACADA Learning. 
 	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance,
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord.
@@ -18,7 +18,7 @@
 	I am now using this line to test the poll SCM feature. Its been set to check every minute for new commits. If no new commits then it does nothing. If there is a new commit (What i am trying to do here) then it will do a build. 
 	This worked. Now I want to try out the Webhook function. Rather than having jenkins come at specified times to check for new commits to build, Github would be the one to push new commits to Jenkins to build. This is the difference between Poll SCM and Webhook function.</h2>
 <hr>
-<div style="text-align: left;">
+<div style="text-align: center;">
 	<span>
 		<img src="images/DP black.png" alt="" width="100">
 	</span>
