@@ -6,7 +6,7 @@ pipeline{
   stages{
     stage("1.CodeClone"){
       steps{
-        git credentialsId: 'GitHub-Cred', url: 'https://github.com/judiefriend/web-app.git'
+        git credentialsId: 'GitHub-Cred', url: 'https://github.com/judiefriend/maven-web-app.git'
       }
     }
     stage("2.Build"){
