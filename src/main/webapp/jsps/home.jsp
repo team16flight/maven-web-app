@@ -16,7 +16,8 @@
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord.
 	I am ading this new after our first Jenkins class via git. I would run a build in Jenkins then check to see if its implemented in the Tomcat URL.
 	I am now using this line to test the poll SCM feature. Its been set to check every minute for new commits. If no new commits then it does nothing. If there is a new commit (What i am trying to do here) then it will do a build. 
-	This worked. Now I want to try out the Webhook function. Rather than having jenkins come at specified times to check for new commits to build, Github would be the one to push new commits to Jenkins to build. This is the difference between Poll SCM and Webhook function.</h2>
+	This worked. Now I want to try out the Webhook function. Rather than having jenkins come at specified times to check for new commits to build, Github would be the one to push new commits to Jenkins to build. This is the difference between Poll SCM and Webhook function.
+	I have sucessfully intergrated my githib with Visual Studio and i am currently entering this line from my VS</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
